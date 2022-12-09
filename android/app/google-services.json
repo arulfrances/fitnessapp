@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018023029085",
+    "project_id": "fitnessapp-28633",
+    "storage_bucket": "fitnessapp-28633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018023029085:android:a5a3e75de238b89e5ee0b4",
+        "android_client_info": {
+          "package_name": "com.faithlabs.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018023029085-nhuoli1r8p2qk6hi65h69h2po4hk5nhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3YHo_38xa5G4DiT3h-XQFzpmRPBkvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018023029085-nhuoli1r8p2qk6hi65h69h2po4hk5nhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
